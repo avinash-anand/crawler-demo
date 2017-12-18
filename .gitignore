@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+hs_err_pid*
+target
+crawler-demo.iml
